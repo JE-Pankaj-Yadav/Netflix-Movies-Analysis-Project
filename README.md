@@ -60,8 +60,8 @@ We find answers to questions like:
    python Movies.py
 
 ## Insights
-✔️ Drama is the most common genre.
-✔️ More movies started releasing on Netflix after 2010.
+✔️ Drama is the most common genre.<br>
+✔️ More movies started releasing on Netflix after 2010.<br>
 ✔️ A few movies are very popular, while many have low popularity.
 
 ## License
